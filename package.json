@@ -1,0 +1,23 @@
+{
+  "name": "vime",
+  "version": "0.0.1",
+  "description": "A faster VM module.",
+  "keywords": ["vm", "context"],
+  "homepage": "https://github.com/bnoordhuis/vime",
+  "author": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "url": "http://bnoordhuis.nl/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bnoordhuis/vime.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
